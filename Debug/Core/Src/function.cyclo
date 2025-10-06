@@ -1,0 +1,3 @@
+../Core/Src/function.c:4:6:SPI_INIT	1
+../Core/Src/function.c:68:6:spi_transmit	4
+../Core/Src/function.c:88:9:spi_receive	2
